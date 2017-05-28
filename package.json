@@ -1,5 +1,5 @@
 {
-  "name": "latex-autocomplete",
+  "name": "BaconTools, based on latex-autocomplete",
   "main": "./lib/latexautocomplete.js",
   "version": "1.0.0",
   "description": "Autocompletion for LaTeX.",
