@@ -1,13 +1,13 @@
 {
-  "name": "BaconTools, based on latex-autocomplete",
+  "name": "BaconTools",
   "main": "./lib/latexautocomplete.js",
-  "version": "1.0.0",
-  "description": "Autocompletion for LaTeX.",
+  "version": "1.1.0",
+  "description": "Bacon tools for Atom. Based on autocompletion for LaTeX.",
   "keywords": [
     "LaTeX",
     "autocompletion"
   ],
-  "repository": "https://github.com/evpok/latex-autocomplete",
+  "repository": "https://github.com/Strauman/latex-autocomplete",
   "license": "wtfpl",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
