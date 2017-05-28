@@ -1,6 +1,6 @@
 {
   "name": "BaconTools",
-  "main": "./lib/latexautocomplete.js",
+  "main": "./lib/bacontools.js",
   "version": "1.1.0",
   "description": "Bacon tools for Atom. Based on autocompletion for LaTeX.",
   "keywords": [
