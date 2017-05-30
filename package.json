@@ -2,7 +2,7 @@
   "name": "BaconTools",
   "main": "./lib/bacontools.js",
   "version": "1.2.2",
-  "description": "Ad Hoc. 'Bacon tools' for Atom. Branched of based on autocompletion for LaTeX. (https://atom.io/packages/latex-autocomplete, https://github.com/Evpok/latex-autocomplete)",
+  "description": "Ad Hoc (Package wouldn't be useful unless you know me). 'Bacon tools' for Atom. Branched of based on autocompletion for LaTeX. (https://atom.io/packages/latex-autocomplete, https://github.com/Evpok/latex-autocomplete)",
   "keywords": [
     "LaTeX",
     "autocompletion"
