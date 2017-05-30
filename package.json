@@ -1,14 +1,17 @@
 {
   "name": "BaconTools",
   "main": "./lib/bacontools.js",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Ad Hoc. 'Bacon tools' for Atom. Branched of based on autocompletion for LaTeX. (https://atom.io/packages/latex-autocomplete, https://github.com/Evpok/latex-autocomplete)",
   "keywords": [
     "LaTeX",
     "autocompletion"
   ],
   "activationCommands": {
-    "atom-workspace": ["bacontools:List Unimplemented", "bacontools:List Missing"]
+    "atom-workspace": [
+      "bacontools:List Unimplemented",
+      "bacontools:List Missing"
+    ]
   },
   "repository": "https://github.com/Strauman/latex-autocomplete",
   "license": "wtfpl",
