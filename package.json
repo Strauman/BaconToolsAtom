@@ -1,14 +1,14 @@
 {
   "name": "BaconTools",
   "main": "./lib/bacontools.js",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Bacon tools for Atom. Based on autocompletion for LaTeX.",
   "keywords": [
     "LaTeX",
     "autocompletion"
   ],
   "activationCommands": {
-    "atom-workspace": "bacontools:ListUnimplemented"
+    "atom-workspace": ["bacontools:List Unimplemented", "bacontools:List Missing"]
   },
   "repository": "https://github.com/Strauman/latex-autocomplete",
   "license": "wtfpl",
@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "escape-regexp": "^0.0.1",
-    "atom-space-pen-views": ">0.0.0"
+    "atom-space-pen-views": ">=2.2.0"
   },
   "providedServices": {
     "autocomplete.provider": {
