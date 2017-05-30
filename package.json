@@ -13,7 +13,7 @@
       "bacontools:List Missing"
     ]
   },
-  "repository": "https://github.com/Strauman/latex-autocomplete",
+  "repository": "https://github.com/Strauman/BaconToolsAtom",
   "license": "wtfpl",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
