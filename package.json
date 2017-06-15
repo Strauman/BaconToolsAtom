@@ -7,12 +7,6 @@
     "LaTeX",
     "autocompletion"
   ],
-  "activationCommands": {
-    "atom-workspace": [
-      "bacontools:List Unimplemented",
-      "bacontools:List Missing"
-    ]
-  },
   "repository": "https://github.com/Strauman/BaconToolsAtom",
   "license": "wtfpl",
   "engines": {
